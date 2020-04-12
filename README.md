@@ -1,0 +1,1 @@
+The contents are separated by folders. For example: in the "JS" folder are files that use predominantly javascript, but they may, by chance, use some or other CSS resource.
